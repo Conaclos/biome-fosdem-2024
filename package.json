@@ -1,0 +1,19 @@
+{
+  "name": "biome-presentation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "npm run build:html && npm run build:pdf",
+    "build:html": "npx marp --html slides.md",
+    "build:pdf": "npx marp --allow-local-files --html --pdf slides.md"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@marp-team/marpit": "^2.6.1"
+  },
+  "devDependencies": {
+    "@marp-team/marp-cli": "^3.4.0"
+  }
+}
