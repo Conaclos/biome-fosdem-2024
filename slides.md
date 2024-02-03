@@ -253,7 +253,7 @@ _paginate: hide
 ## TypeScript 🤯
 
 - type & variable with same name
-- **a reference** refers to **multiple declarations**
+- **a reference** can refer to a **type** and a **variable**
 
 ---
 
@@ -262,7 +262,8 @@ _paginate: hide
 ## TypeScript 🤯🤯
 
 - type & variable with same name
-- **a reference** refers to **multiple declarations**
+- ~~a reference can refer to a type and a variable~~
+- **a reference** can refer to **multiple declarations**
 
 ---
 
@@ -271,7 +272,8 @@ _paginate: hide
 ## TypeScript 🤯
 
 - type & variable with same name
-- a reference refers multiple declarations
+- ~~a reference can refer to a type and a variable~~
+- a reference can refer to multiple declarations
 - **partially referenced declarations**
   - type / variable duality
 
