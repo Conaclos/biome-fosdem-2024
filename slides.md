@@ -285,7 +285,7 @@ _paginate: hide
 
 - a reference refers to a **single declaration**
   - handle differently edge cases (_export_, _infer_)
-- type and value with same names
+- type and variable with same name
 - type / variable duality
 
 ---
