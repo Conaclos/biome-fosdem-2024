@@ -201,9 +201,9 @@ _paginate: hide
 ## Lint rules
 
 - many rules query the tree
+  - noVar
   - noDoubleEquals
-  - useFlatMap
-  - useOptionalChain
+  - noAccumulatingSpread
 
 - others need more complex data
   - **noUnusedVariables**
