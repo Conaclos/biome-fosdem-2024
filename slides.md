@@ -239,13 +239,10 @@ _paginate: hide
 
 ![bg right w:100%](./assets/name-resolver/name-resolver-v1-ts.drawio.svg)
 
-## TypeScript?
+## TypeScript 🤯
 
-- bind declarations to references
-  - unique id for each declaration
-  - a reference refers to a single declaration
-- take scopes into account
-  - variable shadowing
+
+- **type & variable** with **same name**
 
 
 ---
@@ -255,7 +252,7 @@ _paginate: hide
 
 ## TypeScript 🤯
 
-- **type & variable** with **same name**
+- type & variable with same name
 - **a reference** refers to **multiple declarations**
 
 ---
