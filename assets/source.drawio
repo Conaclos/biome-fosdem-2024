@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-03T09:40:02.074Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="M5itVl0WqMUXoskORBVB" version="23.1.1" type="device">
+<mxfile host="app.diagrams.net" modified="2024-02-03T10:02:36.054Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="a-Z9CKfCDTwxcOdM5-t3" version="23.1.1" type="device">
   <diagram name="Page-1" id="X_bacrsFbxZ1ptgrG7Gq">
     <mxGraphModel dx="2284" dy="830" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#fef7e0" math="0" shadow="0">
       <root>
@@ -378,11 +378,6 @@
             <Array as="points">
               <mxPoint x="2590" y="3270" />
             </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="jIikkzXEx-BMLhcG6jx0-72" value="&lt;strong style=&quot;border-color: var(--border-color); font-size: 50px; font-family: monospace; text-align: left; color: rgb(234, 107, 102);&quot;&gt;✖&lt;/strong&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;" parent="W07lg_Stv1G9hfa0ZNcl-111" vertex="1" connectable="0">
-          <mxGeometry x="-0.1887" y="-10" relative="1" as="geometry">
-            <mxPoint x="5" y="16" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="W07lg_Stv1G9hfa0ZNcl-113" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;" parent="1" vertex="1">
